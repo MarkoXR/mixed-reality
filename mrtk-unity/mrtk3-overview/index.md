@@ -94,7 +94,7 @@ In previous versions of MRTK (HoloToolkit and MRTK v2), all packages were releas
 
 Individual versioning will enable faster servicing while providing improved developer understanding of the magnitude of changes and reducing the number of packages needing to be updated to acquire the desired fix(es).
 
-For example, if a non-breaking new feature is added to the UX core package, which contains the logic for user interface behavior the minor version number will increase (from 3.0.x to 3.1.0). Since the change is non-breaking, the UX components package, which depends upon UX core, is not required to be updated.
+For example, if a non-breaking new feature is added to the UX core package, which contains the logic for user interface behavior the minor version number will increase (from 3.0.x to 3.0.1). Since the change is non-breaking, the UX components package, which depends upon UX core, is not required to be updated.
 
 As a result of this change, there is not a unified MRTK3 product version.
 
